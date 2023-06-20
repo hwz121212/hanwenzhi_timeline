@@ -10,12 +10,13 @@
 
 2022-05-07 -> 至今 【韩文治 无工作，自己研究技术（重构第三方基础库）】【韩文治 在找工作，有合适的C++软件开发机会的话随时可以入职】
 
-2023-06-20 【韩文治 无工作，自己研究技术 slog、log4cplus、memcacheclient、cryptopp、ckcore】
+2023-06-20 【韩文治 无工作，自己研究技术 slog、log4cplus、memcacheclient、cryptopp、ckcore、ckfilesystem】
 1. 对slog-1.8.22的代码进行重构。
 2. 对log4cplus的代码进行重构。
 3. 对memcacheclient的代码进行重构。
 4. 对cryptopp的代码进行重构。
 5. 对ckcore的代码进行重构。
+6. 对ckfilesystem的代码进行重构。
 
 
 2023-06-03 -> 2023-06-06 【韩文治 无工作，自己研究技术 ice】
