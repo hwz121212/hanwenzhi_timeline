@@ -15,6 +15,7 @@
 2023-06-21 【韩文治 无工作，自己研究技术】
 1. 【重构】 ckmm
 2. 【重构】 keepass
+3. 【重构】 sndfile
 
 2023-06-20 【韩文治 无工作，自己研究技术 slog、log4cplus、memcacheclient、cryptopp、ckcore、ckfilesystem】
 1. 对slog-1.8.22的代码进行重构。
